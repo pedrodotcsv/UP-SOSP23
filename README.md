@@ -1,2 +1,2 @@
 # Sistemas Operativos
-Sistemas Operativos Primavera 2023 @up
+Sistemas Operativos Primavera 2023 @UP
